@@ -74,7 +74,7 @@ img{
 }
 
 .page-nav {
-position: absolute;
+  
 }
 
      .page-nav ul li {
@@ -82,6 +82,7 @@ position: absolute;
       left: 0px;
       position: relative;
       line-height: 200%;
+      position: absolute;
     }
 
       .page-nav ul li:hover {
