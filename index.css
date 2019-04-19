@@ -74,7 +74,7 @@ img{
 }
 
 .page-nav {
-
+position: absolute;
 }
 
      .page-nav ul li {
