@@ -74,7 +74,9 @@ img{
 }
 
 .page-nav {
-  
+float: right;
+  margin-top: 45px;
+  margin-right: -210px;
 }
 
      .page-nav ul li {
