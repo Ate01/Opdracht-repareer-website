@@ -51,7 +51,8 @@ html, body {
 
 
   .page-content a {
-   
+   font-weight: bold;
+    color: #6f717d;
   }
 
 h1 {
@@ -94,7 +95,4 @@ float: right;
         color: #6f717d;
       }
 
-a {
-  color: #6f717d;
-  font-weight: bold;
-}
+
